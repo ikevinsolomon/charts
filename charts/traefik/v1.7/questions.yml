@@ -14,7 +14,7 @@ questions:
   show_subquestion_if: false
   subquestions:
   - variable: imageTag
-    default: "1.7.14"
+    default: "2.3.5"
     description: "Traefik Image Tag"
     type: string
     label: Traefik Image Tag
